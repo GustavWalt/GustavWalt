@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavwalt&label=Profile%20views&color=0e75b6&style=flat" alt="gustavwalt" /> </p>
 
-- 🔭 I’m currently working on **Twitch / Youtube API / Twitter clone**
+- 🔭 I’m currently working on **Twitch API / Youtube API / Twitter clone**
 
-- 🌱 I’m currently learning **Node.JS, PHP, React & Python**
+- 🌱 I’m currently learning **Node.JS, PHP, React, Golang & Python**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Twitch API & SQL**
 
