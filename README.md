@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavwalt&label=Profile%20views&color=0e75b6&style=flat" alt="gustavwalt" /> </p>
 
-- 🔭 I’m currently working on **Twidiot (Twitter Clone)**
+- 🔭 I’m currently working on **Sanity, GraphQL & React**
 
 - 🌱 I’m currently learning **Python, TypeORM & NodeJS**
 
 - 👯 I’m looking to collaborate on **React**
 
-- 🤝 I’m looking for help with **Gatsby**
+- 🤝 I’m looking for help with **Next.JS**
 
 - 💬 Ask me about **React, SQL, HTML, CSS, JS, C#**
 
