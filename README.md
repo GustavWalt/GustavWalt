@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavwalt&label=Profile%20views&color=0e75b6&style=flat" alt="gustavwalt" /> </p>
 
-- 🔭 I’m currently working on **Sanity, GraphQL & React**
+- 🔭 I’m currently working on **Java, NextJS & Svelte**
 
-- 🌱 I’m currently learning **Python, TypeORM & NodeJS**
+- 🌱 I’m currently learning **Java, C/C++**
 
-- 👯 I’m looking to collaborate on **React**
+- 💬 Ask me about **React, SQL, HTML, CSS, JS**
 
-- 🤝 I’m looking for help with **Next.JS**
+- 📫 How to reach me **Discord: Shardy#5853**
 
-- 💬 Ask me about **React, SQL, HTML, CSS, JS, C#**
-
-- 📫 How to reach me **Discord: Shardy#1337**
-
-- ⚡ Fun fact **Runescape lover**
+- ⚡ Fun fact **OSRS lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
